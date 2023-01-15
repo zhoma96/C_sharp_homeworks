@@ -1,0 +1,15 @@
+C:\C_Sharp_classes\Class_2\lecture\example_2\bin\Debug\net6.0\example_2.exe
+C:\C_Sharp_classes\Class_2\lecture\example_2\bin\Debug\net6.0\example_2.deps.json
+C:\C_Sharp_classes\Class_2\lecture\example_2\bin\Debug\net6.0\example_2.runtimeconfig.json
+C:\C_Sharp_classes\Class_2\lecture\example_2\bin\Debug\net6.0\example_2.dll
+C:\C_Sharp_classes\Class_2\lecture\example_2\bin\Debug\net6.0\example_2.pdb
+C:\C_Sharp_classes\Class_2\lecture\example_2\obj\Debug\net6.0\example_2.csproj.AssemblyReference.cache
+C:\C_Sharp_classes\Class_2\lecture\example_2\obj\Debug\net6.0\example_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C_Sharp_classes\Class_2\lecture\example_2\obj\Debug\net6.0\example_2.AssemblyInfoInputs.cache
+C:\C_Sharp_classes\Class_2\lecture\example_2\obj\Debug\net6.0\example_2.AssemblyInfo.cs
+C:\C_Sharp_classes\Class_2\lecture\example_2\obj\Debug\net6.0\example_2.csproj.CoreCompileInputs.cache
+C:\C_Sharp_classes\Class_2\lecture\example_2\obj\Debug\net6.0\example_2.dll
+C:\C_Sharp_classes\Class_2\lecture\example_2\obj\Debug\net6.0\refint\example_2.dll
+C:\C_Sharp_classes\Class_2\lecture\example_2\obj\Debug\net6.0\example_2.pdb
+C:\C_Sharp_classes\Class_2\lecture\example_2\obj\Debug\net6.0\example_2.genruntimeconfig.cache
+C:\C_Sharp_classes\Class_2\lecture\example_2\obj\Debug\net6.0\ref\example_2.dll
