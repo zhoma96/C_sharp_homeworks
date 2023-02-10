@@ -68,7 +68,7 @@
 
 // void FindElementInArray(int[,] array1, int row, int col) 
 // { 
-//     if (row <= array1.GetLength(0) && col <= array1.GetLength(1)) 
+//     if (row < array1.GetLength(0) && col < array1.GetLength(1)) 
 //     { 
 //         Console.WriteLine($"[{row},{col}] = {array1[row, col]}"); 
 //     } 
